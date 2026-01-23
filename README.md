@@ -74,4 +74,4 @@ Report bugs here:
 https://docs.google.com/forms/d/e/1FAIpQLSe9wxelMOGi83_Hoa8gGGsIN8WXiBsf97jbQQKdqDtaGv2kyw/viewform?usp=publish-editor
 
 ## Version
-v4.2
+v4.5.0
