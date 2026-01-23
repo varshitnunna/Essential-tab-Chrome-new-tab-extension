@@ -25,8 +25,7 @@ A centered app dock for fast navigation to commonly used sites such as:
 
 ## Preview
 
-![Your New Tab Reimagined](<img width="1280" height="666" alt="essential tab (1)" src="https://github.com/user-attachments/assets/ad8d549a-903d-43da-8d20-ab4aa640d797" />
-)
+<img width="1280" height="666" alt="essential tab (1)" src="https://github.com/user-attachments/assets/0f9a2ee8-7acf-454e-93c4-b1f1d4142357" />
 
 ## Customization <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.gif" alt="🌈" width="32" height="32">
 
