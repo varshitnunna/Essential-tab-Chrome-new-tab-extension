@@ -3,6 +3,8 @@ Your New Tab, Reimagined  <img src="https://fonts.gstatic.com/s/e/notoemoji/late
 
 Essential Tab is a minimal, widget-based Chrome extension inspired by the Nothing OS design language. It replaces your default new tab page with a clean, focused, and highly customizable dashboard.
 
+Now also available on FireFox baised broswers https://addons.mozilla.org/en-US/firefox/addon/essential-tab/
+
 ## Features
 
 ### Morning Brief
