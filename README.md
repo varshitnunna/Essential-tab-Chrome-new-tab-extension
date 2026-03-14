@@ -1,4 +1,4 @@
-# Essential Tab (v5.2.1)
+# Essential Tab (v5.2.2)
 Your New Tab, Reimagined  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
 
 Essential Tab is a minimal, widget-based Chrome extension inspired by the Nothing OS design language. It replaces your default new tab page with a clean, focused, and highly customizable dashboard.
@@ -77,4 +77,4 @@ Report bugs here:
 https://docs.google.com/forms/d/e/1FAIpQLSe9wxelMOGi83_Hoa8gGGsIN8WXiBsf97jbQQKdqDtaGv2kyw/viewform?usp=publish-editor
 
 ## Version
-v5.2.1
+v5.2.2
