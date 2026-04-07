@@ -28,7 +28,8 @@ A centered app dock for fast navigation to commonly used sites such as:
 
 ## Preview
 
-<img width="1280" height="666" alt="essential tab (1)" src="https://github.com/user-attachments/assets/0f9a2ee8-7acf-454e-93c4-b1f1d4142357" />
+<img width="4000" height="2828" alt="E3_upscaled" src="https://github.com/user-attachments/assets/f20ed931-fbde-4272-ba74-4871e643634d" />
+
 
 ## Customization <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.gif" alt="🌈" width="32" height="32">
 
